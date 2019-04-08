@@ -1,0 +1,8 @@
+[submodule "tools/clang"]
+	path = tools/clang
+	url = https://github.com/PlatONnetwork/clang.git
+	branch = platon
+[submodule "tools/lld"]
+	path = tools/lld
+	url = https://github.com/PlatONnetwork/lld.git
+	branch = platon
